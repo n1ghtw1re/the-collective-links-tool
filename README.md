@@ -5,6 +5,7 @@ A retro-styled, CRT-themed link directory built with React, TypeScript, and Tail
 ![The Collective Screenshot](https://github.com/n1ghtw1re/the-collective-links-tool/blob/main/the_collective_links.png)
 
 ## [Check Out the Live Preview](https://the-collective-links.netlify.app/)
+## [Running live in an iFrame on Neocities](https://n1ghtw1re.neocities.org/pages/links)
 
 ## Features
 
