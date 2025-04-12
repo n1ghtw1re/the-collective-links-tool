@@ -2,7 +2,9 @@
 
 A retro-styled, CRT-themed link directory built with React, TypeScript, and Tailwind CSS. The application features a unique green/amber switchable theme and a classic monitor display effect.
 
-![The Collective Screenshot](https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?q=80&w=2000&auto=format&fit=crop)
+![The Collective Screenshot](https://github.com/n1ghtw1re/the-collective-links-tool/blob/main/the_collective_links.png)
+
+## [Check Out the Live Preview](https://the-collective-links.netlify.app/)
 
 ## Features
 
