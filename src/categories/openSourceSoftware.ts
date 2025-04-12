@@ -1,0 +1,20 @@
+export const openSourceSoftware = [
+  { url: 'https://www.7-zip.org/', title: '7zip', description: 'Free file archiver with a high compression ratio' },
+  { url: 'https://about.gitlab.com/', title: 'Gitlab', description: 'Web-based DevOps lifecycle tool' },
+  { url: 'https://www.audacityteam.org/', title: 'Audacity', description: 'Free, open-source, cross-platform audio software' },
+  { url: 'https://www.blender.org/', title: 'Blender', description: 'Free and open source 3D creation suite' },
+  { url: 'https://www.clementine-player.org/', title: 'Clementine Music Management', description: 'Free and open-source music player' },
+  { url: 'https://www.darktable.org/', title: 'Darktable', description: 'Open source photography workflow application and raw developer' },
+  { url: 'https://filezilla-project.org/', title: 'Filezilla', description: 'Free FTP solution for both client and server' },
+  { url: 'https://www.mozilla.org/en-US/?v=1', title: 'Firefox', description: 'Free and open-source web browser' },
+  { url: 'https://www.gimp.org/', title: 'Gimp', description: 'GNU Image Manipulation Program' },
+  { url: 'https://jellyfin.org/', title: 'Jellyfin', description: 'Free Software Media System' },
+  { url: 'https://kdenlive.org/en/', title: 'Kden Live', description: 'Free and open source video editing software' },
+  { url: 'https://www.libreoffice.org/', title: 'Libre Office', description: 'Free and open source office suite' },
+  { url: 'https://www.linux.org/pages/download/', title: 'Linux Operating System', description: 'Family of open-source Unix-like operating systems' },
+  { url: 'https://nextcloud.com/', title: 'Nextcloud', description: 'Open source content collaboration platform' },
+  { url: 'https://opensource.guide', title: 'Open Source Guides', description: 'Learn how to contribute to open source' },
+  { url: 'https://github.com/explore', title: 'GitHub Explore', description: 'Discover open source projects' },
+  { url: 'https://www.qbittorrent.org/%20rel=', title: 'qBittorrent', description: 'Free and open-source BitTorrent client' },
+  { url: 'https://www.unrealengine.com/en-US', title: 'Unreal Engine', description: 'Free 3D creation tool (note: while free to use, its licensing has specific terms)' }
+];
